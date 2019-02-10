@@ -117,7 +117,7 @@ var unifiedServer = function (req, res) {
 //Define handlers:
 var handlers = {};
 
-//sample handler:
+//hello handler:
 handlers.hello = function (data, callback) {
     //Get current date:
     var date = new Date;
